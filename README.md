@@ -51,7 +51,7 @@ I am working as **Data Analyst**, at [Koolatron Corp.](https://www.koolatron.com
 
 <!-- Even before that, I was a **Sr. Principal Engineer** developing power semiconductor technologies and applying AI/ML for semiconductor product/tech deveklopment at [ON Semiconductor, also known as onsemi](https://www.onsemi.com/). -->
 
-At its core, **I translate customer business problems into data-driven problems and help build solutions**.
+At its core, **I translate Customer oriented business problems into data-driven problems and help build solutions**.
 
 <!-- ### Currently... -->
 
