@@ -46,7 +46,8 @@ Hello! This is Avinash. I am a Data Storyteller.
 
 
 ### Work
-I am working as **Data Analyst**, at [Koolatron Corp.](https://www.koolatron.com/), where I am cleaning and converting the raw data using excel and Load the data into visualization tools like Tableau and extracting meaningful insights by creating, analysing data using visualization tools like Tableau.
+I am working as **Data Analyst**, at [Koolatron Corp.](https://www.koolatron.com/). 
+<!-- where I am cleaning and converting the raw data using excel and Load the data into visualization tools like Tableau and extracting meaningful insights by creating, analysing data using visualization tools like Tableau.
 
 <!-- Before this, I was a **Data Science and Solutions Engineering Manager** at [Adapdix Corp,](https://www.adapdix.com/) putting the power of AI/ML on the Edge for [Industry 4.0](https://www.forbes.com/sites/bernardmarr/2018/09/02/what-is-industry-4-0-heres-a-super-easy-explanation-for-anyone/?sh=587ea6ab9788) and next-generation [Smart Factory](https://www2.deloitte.com/us/en/insights/focus/industry-4-0/smart-factory-connected-manufacturing.html). -->
 
