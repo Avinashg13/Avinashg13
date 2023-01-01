@@ -41,6 +41,7 @@ Hello! This is Avinash. I am a Data Storyteller.
 
 * [My LinkedIn profile](https://www.linkedin.com/in/avinashgupta13/)
 * [My Tableau Public profile](https://public.tableau.com/app/profile/avinash.gupta13)
+* [My Power Bi Public profile](https://www.novypro.com/profile_projects/avinashgupta)
 * [My Twitter Profile](https://twitter.com/thedataminerr)
 
 
