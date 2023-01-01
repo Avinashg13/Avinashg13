@@ -79,8 +79,9 @@ At its core, **I translate Customer oriented business problems into data-driven 
 ![](https://img.shields.io/badge/DataViz-Metplotlib-informational?style=flat&logo=metplotlib&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DataViz-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DataViz-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DataViz-PowerBi-informational?style=flat&logo=tableau&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Datastorage-Excel-informational?style=flat&logo=mssql&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DataViz-Excel-informational?style=flat&logo=mssql&logoColor=white&color=2CD4A7)
 <!-- ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2CD4A7) -->
 <!-- ![](https://img.shields.io/badge/Database-InfluxDB-informational?style=flat&logo=influxdb&logoColor=white&color=2CD4A7) -->
 <!-- ![](https://img.shields.io/badge/Frontend-HTML-informational?style=flat&logo=html5&logoColor=white&color=2CD4A7) -->
