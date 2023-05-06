@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 ### Welcome 👋
 Hello! This is Avinash. I am a Data Storyteller.
 
-* [My LinkedIn profile](https://www.linkedin.com/in/avinashgupta13/)
-* [My Tableau Public Portfolio](https://public.tableau.com/app/profile/avinash.gupta13)
-* [My Power Bi Public Portfolio](https://www.novypro.com/profile_projects/avinashgupta)
-* [My Twitter Profile](https://twitter.com/thedataminerr)
+* [LinkedIn profile](https://www.linkedin.com/in/avinashgupta13/)
+* [Tableau Public Portfolio](https://public.tableau.com/app/profile/avinash.gupta13)
+* [Power Bi Public Portfolio](https://www.novypro.com/profile_projects/avinashgupta)
+* [Twitter Profile](https://twitter.com/thedataminerr)
 
 
 ### Work
