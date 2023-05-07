@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 -->
 
 ### Welcome 👋
-Hello! This is Avinash. I am a Data Storyteller.
+Hello! My Avinash and I am a Data Storyteller using bi tools.
 
 * [LinkedIn profile](https://www.linkedin.com/in/avinashgupta13/)
 * [Power Bi Public Portfolio](https://www.novypro.com/profile_projects/avinashgupta)
