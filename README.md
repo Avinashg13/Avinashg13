@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/avinashgupta95" target="blank"><img src="https://img.shields.io/twitter/follow/avinashgupta95?logo=twitter&style=for-the-badge" alt="avinashgupta95" /></a> </p>
 
-- 🌱 I’m currently learning **SQL,VBA Automation,**
+- 🌱 I’m currently learning **SQL, AWS Cloud**
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/avinashg13](https://www.novypro.com/profile_projects/avinashg13)
 
-- 💬 Ask me about **Advance Excel , Power Bi , VBA Automation**
+- 💬 Ask me about **Advance Excel, Power BI, SQL, Python, Alteryx**
 
 - 📫 How to reach me **Guptaavinash1311@gmail.com**
 
@@ -43,17 +43,18 @@ Hello! My Avinash and I am a Data Storyteller using Data.
 * [Power Bi Public Portfolio](https://www.novypro.com/profile_projects/avinashgupta)
 * [Tableau Public Portfolio](https://public.tableau.com/app/profile/avinash.gupta13)
 * [Twitter Profile](https://twitter.com/thedataminerr)
+* [Excel Portfolio]
 
 
 ### Work
-I am currently working as a **Data Analyst**, at [Koolatron Corp.](https://www.koolatron.com/). 
-<!-- where I am cleaning and converting the raw data using excel and Load the data into visualization tools like Tableau and extracting meaningful insights by creating, analysing data using visualization tools like Tableau.
+I am currently working as a **Data Analyst**, at Caterpillar (https://www.caterpillar.com/) 
+<!-- where I clean and convert the raw data using Excel Load the data into visualization tools like Tableau and extract meaningful insights by creating, analyzing data using visualization tools like Tableau.
 
 <!-- Before this, I was a **Data Science and Solutions Engineering Manager** at [Adapdix Corp,](https://www.adapdix.com/) putting the power of AI/ML on the Edge for [Industry 4.0](https://www.forbes.com/sites/bernardmarr/2018/09/02/what-is-industry-4-0-heres-a-super-easy-explanation-for-anyone/?sh=587ea6ab9788) and next-generation [Smart Factory](https://www2.deloitte.com/us/en/insights/focus/industry-4-0/smart-factory-connected-manufacturing.html). -->
 
 <!-- Even before that, I was a **Sr. Principal Engineer** developing power semiconductor technologies and applying AI/ML for semiconductor product/tech deveklopment at [ON Semiconductor, also known as onsemi](https://www.onsemi.com/). -->
 
-At its core, **I translate Customer oriented business problems into data-driven problems and help to build solutions**.
+At its core, **I translate Customer-oriented business problems into data-driven problems and help to build solutions**.
 
 <!-- ### Currently... -->
 
