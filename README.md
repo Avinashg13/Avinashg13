@@ -35,24 +35,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ### Welcome 👋
-Hello! My Avinash and I am a Data Storyteller using Data.
+Hello! My name is Avinash and I am a Data Storyteller.
 
 * [LinkedIn profile](https://www.linkedin.com/in/avinashgupta13/)
 * [Power Bi Public Portfolio](https://www.novypro.com/profile_projects/avinashgupta)
+* [Excel Portfolio](https://github.com/Avinashg13/Excel-Project)
+* [SQL Portfolio](https://github.com/Avinashg13/SQL-Projects)
+* [Python Portfolio](https://github.com/Avinashg13/Python-Portfolio)
+* [Alteryx](https://twitter.com/thedataminerr)
 * [Tableau Public Portfolio](https://public.tableau.com/app/profile/avinash.gupta13)
-* [Twitter Profile](https://twitter.com/thedataminerr)
-* [Excel Portfolio]
+* [Twitter Profile](https://twitter.com/iavinashgupta)
 
 
 ### Work
 I am currently working as a **Data Analyst**, at Caterpillar (https://www.caterpillar.com/) 
-<!-- where I clean and convert the raw data using Excel Load the data into visualization tools like Tableau and extract meaningful insights by creating, analyzing data using visualization tools like Tableau.
+<!-- where I clean and convert the raw data using Excel Load the data into visualization tools like Tableau and extract meaningful insights by creating, and analyzing data using visualization tools like Tableau.
 
 <!-- Before this, I was a **Data Science and Solutions Engineering Manager** at [Adapdix Corp,](https://www.adapdix.com/) putting the power of AI/ML on the Edge for [Industry 4.0](https://www.forbes.com/sites/bernardmarr/2018/09/02/what-is-industry-4-0-heres-a-super-easy-explanation-for-anyone/?sh=587ea6ab9788) and next-generation [Smart Factory](https://www2.deloitte.com/us/en/insights/focus/industry-4-0/smart-factory-connected-manufacturing.html). -->
 
-<!-- Even before that, I was a **Sr. Principal Engineer** developing power semiconductor technologies and applying AI/ML for semiconductor product/tech deveklopment at [ON Semiconductor, also known as onsemi](https://www.onsemi.com/). -->
+<!-- Even before that, I was a **Sr. Principal Engineer** developing power semiconductor technologies and applying AI/ML for semiconductor product/tech development at [ON Semiconductor, also known as onsemi](https://www.onsemi.com/). -->
 
 At its core, **I translate Customer-oriented business problems into data-driven problems and help to build solutions**.
 
@@ -63,7 +65,7 @@ At its core, **I translate Customer-oriented business problems into data-driven 
 
 <!-- - 🔭 I’m currently working on: lectures/workshops, courses, and spreading knowledge on machine learning/statistical modeling. In particular, I serving as the **Track Chair of "AI Optimization" track** for the **[ValleyML AI Expo 2021](https://www.valleyml.ai/)**. Also, I am developing course content for the **[ValleyML Fellowship program](https://www.valleyml.ai/fellowship)**. -->
 
-<!-- - 🌱 I’m currently learning: _ML flow management tools_, _Ray serve and distributed computing_, and how AI/ML applies to the various aspects of the Industrial IoT sector. -->
+<!-- - 🌱 I’m currently learning: _ML flow management tools_, _Ray serve, and distributed computing_, and how AI/ML applies to the various aspects of the Industrial IoT sector. -->
 
 <!-- - 👯 I’m looking to collaborate on: **Data science/ML books**. Probably will use [Jupyter Books](https://jupyterbook.org/intro.html) and [Leanpub platform](https://leanpub.com/) -->
 
@@ -72,7 +74,7 @@ At its core, **I translate Customer-oriented business problems into data-driven 
 
 <!-- I also teach [IEEE/ACM workshops on data science/ machine learning](https://valleyml.thinkific.com/bundles/machine-learning-and-deep-learning-boot-camp). -->
 
-<!-- My first data science related book [Data wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Creating-actionable-ebook/dp/B07JF26NGJ) was published on February, 2019. In future, I wish to self-publish a second book about Hands-on mathematics/statistics for data scientists. -->
+<!-- My first data science-related book [Data wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Creating-actionable-ebook/dp/B07JF26NGJ) was published on February, 2019. In the future, I wish to self-publish a second book about Hands-on mathematics/statistics for data scientists. -->
 
 ### Skills
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
