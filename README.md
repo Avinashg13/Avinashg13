@@ -47,7 +47,7 @@ Hello! My name is Avinash and I am a Data Storyteller.
 
 
 ### Work
-I am currently working as a **Data Analyst**, at Caterpillar (https://www.caterpillar.com/) 
+I am currently working as a **Data Analyst** 
 <!-- where I clean and convert the raw data using Excel Load the data into visualization tools like Tableau and extract meaningful insights by creating and analyzing data using visualization tools like Tableau.
 
 At its core, **I translate Customer-oriented business problems into data-driven problems and help to build solutions**.
