@@ -41,13 +41,13 @@ Hello! My name is Avinash and I am a Data Storyteller.
 * [Excel Portfolio](https://github.com/Avinashg13/Excel-Project)
 * [SQL Portfolio](https://github.com/Avinashg13/SQL-Projects)
 * [Python Portfolio](https://github.com/Avinashg13/Python-Portfolio)
-* [Tableau Public Portfolio](https://public.tableau.com/app/profile/avinash.gupta13)
-* [Twitter Profile](https://twitter.com/iavinashgupta)
+<!--* [Tableau Public Portfolio](https://public.tableau.com/app/profile/avinash.gupta13)
+<!--* [Twitter Profile](https://twitter.com/iavinashgupta)
 
 
 ### Work
 I am currently working as a **Data Analyst** 
-<!-- where I clean and convert the raw data using Excel Load the data into visualization tools like Power bi and extract meaningful insights by creating and analyzing data using visualization tools like Tableau.
+where I clean and convert the raw data using Excel Load the data into visualization tools like Power BI and extract meaningful insights by creating and analyzing data using visualization tools like Power BI.
 
 At its core, **I translate Customer-oriented business problems into data-driven problems and help to build solutions**.
 
