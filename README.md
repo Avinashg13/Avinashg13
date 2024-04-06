@@ -7,7 +7,7 @@
 
  🌱 I’m currently learning **Azure Cloud**
 
- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/avinashg13](https://www.novypro.com/profile_projects/avinashgupta)
+ 👨‍💻 All of my projects are available at [Power Bi Projects Portfolio](https://www.novypro.com/profile_projects/avinashgupta)
 
 💬 Ask me about **Advance Excel, Power BI, SQL, Python, Azure**
 
